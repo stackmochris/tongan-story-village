@@ -187,16 +187,16 @@
     },
     {
       "path": "public/art/manulua-study.svg",
-      "bytes": 233,
-      "sha256": "7ea00ca7ad087927f971bfdc878e5b35993f45ce8de19d8c21d889aad62287e2",
+      "bytes": 232,
+      "sha256": "31cd349898cd2bde95775880eca8ac225122679429ef7dd707d4d75b63400fa5",
       "source": "Original Story Village draft, 2026-11-09",
       "status": "original code-authored geometric approximation",
       "culturalApproval": "Pending DR L.V.S. review"
     },
     {
       "path": "public/art/nifo-anga-study.svg",
-      "bytes": 122,
-      "sha256": "60b653d78cee5813c638caf0cb7aaecccb2cac4e4381634c81a17950aa516ff2",
+      "bytes": 121,
+      "sha256": "e4f90f541aa99316a1f103f6d4c9f1af245ab4d3d1c3fc456e5f3b537451345b",
       "source": "Original Story Village draft, 2026-11-09",
       "status": "original code-authored geometric approximation",
       "culturalApproval": "Pending DR L.V.S. review"
@@ -211,8 +211,8 @@
     },
     {
       "path": "public/art/weave-study.svg",
-      "bytes": 298,
-      "sha256": "3cf9cab67581453e0c186a86eb10d4ea00bb21aa83723219dee738044173c78f",
+      "bytes": 297,
+      "sha256": "d990172c922f31128eb4ef7ebfda9cd757d05b6ddc0d927b086221a3971dedff",
       "source": "Original Story Village draft, 2026-11-09",
       "status": "original code-authored geometric approximation",
       "culturalApproval": "Pending DR L.V.S. review"
