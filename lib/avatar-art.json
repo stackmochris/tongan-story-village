@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "canvas": [
+    1024,
+    1536
+  ],
+  "culturalApproval": "Pending DR L.V.S. review",
+  "assets": [
+    {
+      "id": "base-broad",
+      "source": "assets/avatar-layers/base-broad.png",
+      "url": "/art/avatar/base-broad.webp",
+      "width": 768,
+      "height": 1152,
+      "bounds": [
+        160,
+        146,
+        434,
+        957
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "7b399086805b0ab03c622cb36725115855aede33312096c298fcd5a98adf7de3"
+    },
+    {
+      "id": "base-soft",
+      "source": "assets/avatar-layers/base-soft.png",
+      "url": "/art/avatar/base-soft.webp",
+      "width": 768,
+      "height": 1152,
+      "bounds": [
+        174,
+        146,
+        408,
+        956
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "78ceed7ad7363ed1d649c648a960f4a7527a07193b574f551db5a0eb2bebde8d"
+    },
+    {
+      "id": "dress",
+      "source": "assets/avatar-layers/dress.png",
+      "url": "/art/avatar/dress.webp",
+      "width": 600,
+      "height": 900,
+      "bounds": [
+        55,
+        54,
+        490,
+        806
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "3b949f14870cbf1b0f30f763bc783ebdfd7474f4f930931ddf713f814394cd81"
+    },
+    {
+      "id": "flower",
+      "source": "assets/avatar-layers/flower.png",
+      "url": "/art/avatar/flower.webp",
+      "width": 600,
+      "height": 548,
+      "bounds": [
+        66,
+        47,
+        444,
+        440
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "316a00c5c9c8d819c1292a53b9a49eed1f68469be58482a72325b381b075b37a"
+    },
+    {
+      "id": "hair-bun",
+      "source": "assets/avatar-layers/hair-bun.png",
+      "url": "/art/avatar/hair-bun.webp",
+      "width": 600,
+      "height": 548,
+      "bounds": [
+        116,
+        70,
+        366,
+        335
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "e0b8aa7cc7efccc6fb1a2c04183a4f244bba7bcdbb100a55ca56e696ca5636a5"
+    },
+    {
+      "id": "hair-long",
+      "source": "assets/avatar-layers/hair-long.png",
+      "url": "/art/avatar/hair-long.webp",
+      "width": 600,
+      "height": 900,
+      "bounds": [
+        11,
+        35,
+        575,
+        824
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "658875dceb8d4940e7ca274b22ce7c1d58f19a8ef14d9c55e19189d04f08dcc5"
+    },
+    {
+      "id": "hair-short",
+      "source": "assets/avatar-layers/hair-short.png",
+      "url": "/art/avatar/hair-short.webp",
+      "width": 600,
+      "height": 400,
+      "bounds": [
+        112,
+        51,
+        376,
+        245
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "7929596990f41acd22df5d0114a4ae8c91342528722bb750264e53a27adb34ee"
+    },
+    {
+      "id": "kiekie",
+      "source": "assets/avatar-layers/kiekie.png",
+      "url": "/art/avatar/kiekie.webp",
+      "width": 600,
+      "height": 334,
+      "bounds": [
+        18,
+        34,
+        564,
+        280
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "1aa8e92bbf34aa2f22e72480f1efcc0f1c9c639430ae5f879731a5ffba09bad0"
+    },
+    {
+      "id": "shirt-broad",
+      "source": "assets/avatar-layers/shirt-broad.png",
+      "url": "/art/avatar/shirt-broad.webp",
+      "width": 600,
+      "height": 518,
+      "bounds": [
+        17,
+        29,
+        565,
+        470
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "e8d650b63f3d59f78859322855fd63902450a17aa0113c813da1c9d55bcb2ea4"
+    },
+    {
+      "id": "shirt",
+      "source": "assets/avatar-layers/shirt.png",
+      "url": "/art/avatar/shirt.webp",
+      "width": 600,
+      "height": 548,
+      "bounds": [
+        70,
+        35,
+        458,
+        475
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "fc3e356a8615e3cd3105eca55fb5b0ed79002457517953175c9d77fe35e915fa"
+    },
+    {
+      "id": "taovala",
+      "source": "assets/avatar-layers/taovala.png",
+      "url": "/art/avatar/taovala.webp",
+      "width": 600,
+      "height": 267,
+      "bounds": [
+        36,
+        53,
+        528,
+        170
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "07ad533db35395c5f5fda40201877a74ae88b4778a5fef29567a05713f660eea"
+    },
+    {
+      "id": "tupenu",
+      "source": "assets/avatar-layers/tupenu.png",
+      "url": "/art/avatar/tupenu.webp",
+      "width": 600,
+      "height": 900,
+      "bounds": [
+        131,
+        168,
+        336,
+        581
+      ],
+      "mask": "Native alpha channel; exact garment silhouette",
+      "sha256": "b2a35cbaabd3f79041e88831889d78c763a0a1a3cd9245a0ce96919ab63690de"
+    }
+  ]
+}

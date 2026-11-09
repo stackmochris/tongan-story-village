@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-09",
+  "tool": "built-in image_gen",
+  "prompts": [
+    {
+      "id": "base",
+      "prompt": "Use case: illustration-story. Asset type: base-body layer for a modular Tongan adult chibi avatar creator. Produce ONE full body adult on a transparent portrait canvas, frontal orthographic view, calm symmetrical relaxed pose, warm brown skin, oversized round head, expressive dark brown eyes, friendly smile, clean dark brown outlines, soft cel shading matching warm illustrated Tongan chibi art. No hair at all: bald smooth oval head. No jewellery, flowers, mats, garment decoration or text. Modest plain neutral cream fitted sleeveless undershirt and fitted knee-length shorts as the underlayer, simple brown sandals. Arms slightly away from torso, hands down beside hips so added clothing overlays can cover the torso while hands stay visible. Both hands and feet fully visible. Adult cues, approximately 2.5 heads tall, not a baby. Canvas 1024x1536, transparent generous margins, character centered, top of bald head at y=160, chin at y=660, shoulder line y=720, waist y=1010, hem of shorts y=1190, sandals baseline y=1400. Body symmetrical x=512 center, shoulder span x=350 to674, arms extend to x=270 and754. Keep this stable base for interchangeable clothing and hairstyles. No shadow or ground plane."
+    },
+    {
+      "id": "base-clean",
+      "prompt": "Use case: background-extraction. Edit target is the supplied base-body image. Remove ALL the brown glow, shadows, dark background and aura. Return ONLY the exact character, same pose and identity and pixel registration, on genuinely transparent alpha background with clean edges. Keep the exact 1024x1536 canvas, no recentering, no rescaling, no changes to character. No shadows, no new text or elements. This must be a clean compositing layer."
+    },
+    {
+      "id": "taovala",
+      "prompt": "Use case illustration-story. Isolated outer waistwear layer for illustrated adult chibi paper doll. Draw one small natural beige woven pandanus waist mat, illustrative Tongan TAʻOVALA DRAFT pending cultural review. Frontal orthographic, wide rectangular slightly curved mat about 2.3 times as wide as its height, simple diagonal woven texture, small restrained fringe at lower edge, thin dark-brown binding cord tied with a small central knot. No patterns with claimed cultural meaning. Distinct single woven mat panel worn outside clothing. ONLY MAT AND CORD, no garment, torso, person, limbs, mannequin, face or hands. Entire item centered, modest transparent margins, matching reference warm cel shading and brown outlines. Genuine transparent alpha, no aura, shadow, background or text."
+    },
+    {
+      "id": "kiekie",
+      "prompt": "Use case illustration-story. Isolated outer waist ornament layer for an illustrated adult chibi paper doll. An illustrative KIEKIE DRAFT pending cultural review: narrow natural-fibre belt with separate hanging cream braided cords and small looped shell-like ornaments hanging at spaced intervals. Airy open gaps between individual strands, transparent spaces, clearly NOT a continuous woven mat and NOT a skirt. Front orthographic, width about 1.8 times height. Warm beige ivory tones, dark-brown clean outlines, soft cel shading matching reference. ONLY ornament, no person, skin, dress, body, arms, hands or mannequin. Whole item centered with small transparent margins. Genuine transparent alpha, no background, halo, shadow or text. Do not invent sacred symbols, royal motifs, dance or ceremonial instructions."
+    },
+    {
+      "id": "flower",
+      "prompt": "Use case illustration-story. One small isolated generic cream-and-coral decorative flower with five rounded petals, a warm ochre center and one modest green leaf, front view. Clean dark-brown outlines, soft cel shading in warm Tongan chibi illustration style. This is a generic fictional floral accessory, NOT labelled heilala, NOT a botanical species claim or symbolic instruction. Only one flower accessory, no hair, person, face, body, head or words. Centered item with small transparent margins, genuine alpha transparency, no background, glow or shadow."
+    },
+    {
+      "id": "shirt-broad",
+      "prompt": "Use case illustration-story. Asset type: broad-frame paper-doll shirt layer. Style/body reference supplied. Draw ONLY one broad-shouldered, straight-cut short-sleeve collared button-up shirt. Use a straight boxy adult shirt silhouette with wide shoulder coverage and NO fitted waist or breast contours. Broad shoulders slope gently outward from collar to sleeves, neck opening has a natural open V. Almost-white cream fabric, subtle gray soft cel-shaded folds, clean dark-brown outlines. Frontal orthographic view. No person, skin, head, arms, hands or mannequin. Whole isolated garment with small transparent margins. Genuine clean alpha transparent background, no glow, shadows, lighting aura or text. It must layer over the supplied broad-frame chibi body and fully cover the undershirt straps."
+    }
+  ],
+  "files": [
+    [
+      "base-soft",
+      "exec-8356b0fb-d0fe-4066-82e0-b31b4c7471bf.png"
+    ],
+    [
+      "base-broad",
+      "exec-0c3e1d77-a35e-4495-b6ff-a852b9de29bc.png"
+    ],
+    [
+      "shirt",
+      "exec-a29307d9-48dd-4a84-934b-d581e90f4ccc.png"
+    ],
+    [
+      "dress",
+      "exec-2beec0f5-5057-452f-ac15-b98700174cb7.png"
+    ],
+    [
+      "tupenu",
+      "exec-e094adf2-6a51-4bd7-b198-8270679bd260.png"
+    ],
+    [
+      "hair-short",
+      "exec-6d05530f-078d-46ef-b206-3cc76300233f.png"
+    ],
+    [
+      "hair-long",
+      "exec-e95c6c31-3593-415e-afdc-074ec273a756.png"
+    ],
+    [
+      "hair-bun",
+      "exec-411039cf-969f-43e2-a07c-1f28e688e1a6.png"
+    ],
+    [
+      "taovala",
+      "exec-169d0783-8617-4d6c-a4bf-e8a7f3366789.png"
+    ],
+    [
+      "kiekie",
+      "exec-846bd5e0-9dd8-4294-aa13-2ce01cc09840.png"
+    ],
+    [
+      "flower",
+      "exec-376bcd22-a8c7-4970-8560-e9a03390b4ee.png"
+    ],
+    [
+      "shirt-broad",
+      "exec-f022c83b-d488-4a7f-88d7-5530159a8b59.png"
+    ]
+  ],
+  "status": "Illustrative drafts; no recorded DR L.V.S. approval"
+}
