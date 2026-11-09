@@ -1,0 +1,597 @@
+{
+  "date": "2026-11-09",
+  "files": [
+    {
+      "path": "assets/wedding-scroller/backgrounds/airport.png",
+      "bytes": 42632,
+      "sha256": "ef570e33c95040d81bb39a7c34aa7d62d4ea31323c3616f030a438dab289691b",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/airport.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/airport.svg",
+      "bytes": 2032,
+      "sha256": "04f1e9ac996538279665881ce2dac153031f9a2588879da8f79007e8e47c13b5",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/airport.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/car_ride.png",
+      "bytes": 45984,
+      "sha256": "5e6da978f7ceb62feddf2a1cfa6cf2155ded4badab63f67843919d1d892c3a6e",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/car_ride.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/car_ride.svg",
+      "bytes": 1890,
+      "sha256": "c84ab125ea2fb6e1946fd83e1c45aae33f2300854ffd7d2f0b51064bbd1f25d9",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/car_ride.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/house_exterior.png",
+      "bytes": 44148,
+      "sha256": "6929ea431b1cb56acbb10ef21eaec616787def5b5b2f272b922f8d4086c10659",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/house_exterior.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/house_exterior.svg",
+      "bytes": 2035,
+      "sha256": "7e444ada36d55aba5a9725a58fe0f269d6787a9b6fa2d2c9401f9c75025ba02b",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/house_exterior.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/house_interior.png",
+      "bytes": 25758,
+      "sha256": "ec7db2090d993c3da27ba27954a6bfc5b7f36f00bae245fbe8e1702f3ba4128b",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/house_interior.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/house_interior.svg",
+      "bytes": 1622,
+      "sha256": "24a99b710cf023d2eb14642795c80c624e2d3e62f94f3ef6252f2efbf0631389",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/house_interior.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/market.png",
+      "bytes": 26361,
+      "sha256": "2b57894055010cd0c5f22e00876ee31ad18caccb158c1fa72c2b756f74ee1d29",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/market.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/backgrounds/market.svg",
+      "bytes": 2308,
+      "sha256": "4c49753d4b600ca8a2331755322067e60934dfd16a040bf9a0ebc00fb1978f34",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/backgrounds/market.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/driver_walk.png",
+      "bytes": 56169,
+      "sha256": "23298d982d2847a426ceb27a2ae55d9960f2bfc3fd345875490ceb6c5c95c1d2",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/driver_walk.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/driver_walk.svg",
+      "bytes": 20517,
+      "sha256": "ce6069150fc2f51f8070dc2423e1833199b792232165a195d105b1f5ef2d5228",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/driver_walk.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/elder_walk.png",
+      "bytes": 58910,
+      "sha256": "c7afb1292bd9adac179e793f9c057e3ca6bd395d8d055d2697a476be599b8398",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/elder_walk.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/elder_walk.svg",
+      "bytes": 21813,
+      "sha256": "d0a807c2d71eb081da8e42d865b8183d7297357264e7033ff58e048649439463",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/elder_walk.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/mele_walk.png",
+      "bytes": 56827,
+      "sha256": "28a0d0c7099c351d62940196e12bbe8df365b014c8725a47511df1c500e40fb6",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/mele_walk.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/mele_walk.svg",
+      "bytes": 20629,
+      "sha256": "65ae02215e51c60b37b4a03e04785dbc24de1ce19bc7f034a704b99143a3e4da",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/mele_walk.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/shopkeeper_walk.png",
+      "bytes": 57392,
+      "sha256": "9922aeca9d00b54b1c8df423cb1e33d6e5d06e63143e1948543b35a37bf66aa7",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/shopkeeper_walk.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/shopkeeper_walk.svg",
+      "bytes": 20357,
+      "sha256": "536593b5e2ded299bc8e9ec73d61ecc732eba2c394950781ae5a91895959ee4a",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/shopkeeper_walk.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/sione_walk.png",
+      "bytes": 58107,
+      "sha256": "da5d6581bc060e5146720e91798774fef577f74b930fd152d54372db12ba5cb8",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/sione_walk.png",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/wedding-scroller/characters/sione_walk.svg",
+      "bytes": 20149,
+      "sha256": "6e72683197e778f5e119cf35d70528e1a2e5df05b88662b61bb6fd45698acdb8",
+      "source": "https://github.com/stackmochris/tongan-wedding-scroller/blob/0f4051ea05b14f0c6bcc06538f7c3ef7e5350e6c/assets/demo/characters/sione_walk.svg",
+      "status": "vector stand-in (PNG is raster export)",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/botanical-original-draft.png",
+      "bytes": 1742310,
+      "sha256": "660baaca087ebfd0a72f2852ea1ac44a6787e360cd4ade15ba89672edb168f1a",
+      "source": "Original Story Village draft, 2026-11-09",
+      "status": "new AI-assisted illustration",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/storytellers-original-draft.png",
+      "bytes": 1387262,
+      "sha256": "e97ff5d45583ce297050ea7d95c380f3a9591ccc91d02fb17e5afae6300bcfcb",
+      "source": "Original Story Village draft, 2026-11-09",
+      "status": "new AI-assisted illustration",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/botanical-draft.webp",
+      "bytes": 126068,
+      "sha256": "8e23597cb5fed58fae75132bb1c976a3daf60782221b4162ca9930d74877ca6f",
+      "source": "Original Story Village draft, 2026-11-09",
+      "status": "new AI-assisted illustration",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/manulua-study.svg",
+      "bytes": 232,
+      "sha256": "31cd349898cd2bde95775880eca8ac225122679429ef7dd707d4d75b63400fa5",
+      "source": "Original Story Village draft, 2026-11-09",
+      "status": "original code-authored geometric approximation",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/nifo-anga-study.svg",
+      "bytes": 121,
+      "sha256": "e4f90f541aa99316a1f103f6d4c9f1af245ab4d3d1c3fc456e5f3b537451345b",
+      "source": "Original Story Village draft, 2026-11-09",
+      "status": "original code-authored geometric approximation",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/storytellers-draft.webp",
+      "bytes": 230192,
+      "sha256": "d4dad8335cba52d9b9aed680b3ec0a9cbed8830e0e973255f6bbcecc678169d0",
+      "source": "Original Story Village draft, 2026-11-09",
+      "status": "new AI-assisted illustration",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/weave-study.svg",
+      "bytes": 297,
+      "sha256": "d990172c922f31128eb4ef7ebfda9cd757d05b6ddc0d927b086221a3971dedff",
+      "source": "Original Story Village draft, 2026-11-09",
+      "status": "original code-authored geometric approximation",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/workspace-references/approved-car.png",
+      "bytes": 2331938,
+      "sha256": "1ad10e7ce459568835e671e0ddd897bff3e9f7a6c7e77cdf8a34edc5ce1253fa",
+      "source": "Existing local workspace assets/workspace-references",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/workspace-references/source-0.png",
+      "bytes": 573660,
+      "sha256": "15ec0de6ab196ed9c35a43e10ce10571837a40c8a56465c8fdf03fb0789fd765",
+      "source": "Existing local workspace assets/workspace-references",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/workspace-references/source-1.png",
+      "bytes": 3014949,
+      "sha256": "b69af7d93f28bf481c0842fb84fbad815600fd01fd6e36cdcffd65faf012dc6a",
+      "source": "Existing local workspace assets/workspace-references",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/workspace-references/source-2.png",
+      "bytes": 2286096,
+      "sha256": "7c96c3782263f6d6543ab60ae060a7f5ad96ec14a80f78008fa4bba68b47f29a",
+      "source": "Existing local workspace assets/workspace-references",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/workspace-references/source-3.png",
+      "bytes": 1871545,
+      "sha256": "1af8c8cf491766d4efa0da0ba7f5a8a1eb46931a44e43dafec94f3fba44c9704",
+      "source": "Existing local workspace assets/workspace-references",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/workspace-references/source-4.png",
+      "bytes": 1581347,
+      "sha256": "2a084a14f392de1f42519eaf2ca45f10e748b20ba29db95c2443c091e98cebe0",
+      "source": "Existing local workspace assets/workspace-references",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/workspace-references/source-5.png",
+      "bytes": 2137931,
+      "sha256": "bce02c3fa9ead32fec3c6be8f3862c7cdfc9f17ad1397bc1b98d6db00e8d38c4",
+      "source": "Existing local workspace assets/workspace-references",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/workspace-references/source-6.png",
+      "bytes": 1797125,
+      "sha256": "213d6f794afb8f3fd56de1dcb990d7931fb8bbbc41e5883ad164c477e1bd5f2e",
+      "source": "Existing local workspace assets/workspace-references",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/opening-illustrations/airport-front.png",
+      "bytes": 2635096,
+      "sha256": "fb71ced61fbe1e5d8d0b93da9f2c2db6ca416be8937fb31b1221bdb517d6391a",
+      "source": "Existing local workspace assets/opening-illustrations",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/opening-illustrations/airport.png",
+      "bytes": 2570191,
+      "sha256": "f476bbb9b514c040c773741ba54b4665e74d1df7ee6fe6bae6ea22f2ad1f0b43",
+      "source": "Existing local workspace assets/opening-illustrations",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/opening-illustrations/arrival-characters.png",
+      "bytes": 1063181,
+      "sha256": "65cfb642050a345f7dac2ef95bf89e222323e3f0a10f58ff0c7ef12ff606c970",
+      "source": "Existing local workspace assets/opening-illustrations",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/opening-illustrations/popua.png",
+      "bytes": 2571901,
+      "sha256": "765857f29409541361ae598e76697da05d5c60f0a926bbecb3984a65b9265d6e",
+      "source": "Existing local workspace assets/opening-illustrations",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/opening-illustrations/road.png",
+      "bytes": 2290908,
+      "sha256": "e87dddbb2f7eb0afb817cd5fbf8988a0c5be01c3823494c97737b9c9692301ec",
+      "source": "Existing local workspace assets/opening-illustrations",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "assets/opening-illustrations/travel-objects.png",
+      "bytes": 2017025,
+      "sha256": "39c3ef9f63be2fbd28ac9e63b19d6314d83ca3ec6cbe5b990580e269f7623eef",
+      "source": "Existing local workspace assets/opening-illustrations",
+      "status": "Illustrated source/reference; not independent production layers",
+      "culturalApproval": "No recorded DR L.V.S. approval"
+    },
+    {
+      "path": "public/art/reference/approved-car.webp",
+      "bytes": 123140,
+      "sha256": "685bf7f87b83bd371020c21e8bc5cc75a23270f6c55ee0634b8294cff070c34b",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/reference/arrival-characters.webp",
+      "bytes": 164012,
+      "sha256": "379cfcb786a46fa1ce20733f83b5915abf2281dbb0e329ca31b7809ab99ce12c",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/reference/source-1.webp",
+      "bytes": 180586,
+      "sha256": "a7229a5f89bbff8558ec17b2f55ac2cd981a4e8026470b8f20de10367c03a490",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/reference/source-2.webp",
+      "bytes": 116348,
+      "sha256": "c3883959c0f9af19e448fa10f1ce69005a574641b4252f10822656f7f2c34eb2",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/reference/source-3.webp",
+      "bytes": 74024,
+      "sha256": "6147e8c3d07db9963b4d8418c715b6f54a363ad385cc08242773fd6d4d9dfe5b",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/reference/source-4.webp",
+      "bytes": 88076,
+      "sha256": "448a797bc9b8d79d2c99a7e814436904eb066ae335bea962cf6b9fc121c85ab2",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/reference/source-5.webp",
+      "bytes": 128042,
+      "sha256": "b6a509cb5adf03f407eda67afdcc07e634d8a9b84b70d740d425990a38fa3251",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/reference/source-6.webp",
+      "bytes": 232882,
+      "sha256": "080885a06a0698fc98ca08f847fc67c568a605480c38e099b590a036888c088d",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/reference/turnaround.webp",
+      "bytes": 80364,
+      "sha256": "bb15e7f9699731928bcf88a80e9986680d0cce544447f5c9566f8cf41c5f6ea3",
+      "source": "WebP derivative of existing local source; filename stem maps to source PNG; turnaround maps to source-0",
+      "status": "Production/reference derivative",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/base-broad.png",
+      "bytes": 1279165,
+      "sha256": "7b399086805b0ab03c622cb36725115855aede33312096c298fcd5a98adf7de3",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/base-soft.png",
+      "bytes": 1274662,
+      "sha256": "78ceed7ad7363ed1d649c648a960f4a7527a07193b574f551db5a0eb2bebde8d",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/dress.png",
+      "bytes": 1388237,
+      "sha256": "3b949f14870cbf1b0f30f763bc783ebdfd7474f4f930931ddf713f814394cd81",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/flower.png",
+      "bytes": 978343,
+      "sha256": "316a00c5c9c8d819c1292a53b9a49eed1f68469be58482a72325b381b075b37a",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/hair-bun.png",
+      "bytes": 553761,
+      "sha256": "e0b8aa7cc7efccc6fb1a2c04183a4f244bba7bcdbb100a55ca56e696ca5636a5",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/hair-long.png",
+      "bytes": 1487566,
+      "sha256": "658875dceb8d4940e7ca274b22ce7c1d58f19a8ef14d9c55e19189d04f08dcc5",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/hair-short.png",
+      "bytes": 962866,
+      "sha256": "7929596990f41acd22df5d0114a4ae8c91342528722bb750264e53a27adb34ee",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/kiekie.png",
+      "bytes": 860011,
+      "sha256": "1aa8e92bbf34aa2f22e72480f1efcc0f1c9c639430ae5f879731a5ffba09bad0",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/shirt-broad.png",
+      "bytes": 1243645,
+      "sha256": "e8d650b63f3d59f78859322855fd63902450a17aa0113c813da1c9d55bcb2ea4",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/shirt.png",
+      "bytes": 976384,
+      "sha256": "fc3e356a8615e3cd3105eca55fb5b0ed79002457517953175c9d77fe35e915fa",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/taovala.png",
+      "bytes": 1501938,
+      "sha256": "07ad533db35395c5f5fda40201877a74ae88b4778a5fef29567a05713f660eea",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "assets/avatar-layers/tupenu.png",
+      "bytes": 1110345,
+      "sha256": "b2a35cbaabd3f79041e88831889d78c763a0a1a3cd9245a0ce96919ab63690de",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/base-broad.webp",
+      "bytes": 75662,
+      "sha256": "123fbca649b6f2fd9d6000adce3c3674b51806dad00c9384b53f954be368cbb3",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/base-soft.webp",
+      "bytes": 77330,
+      "sha256": "d9e345aa3ca59fc11de4d05c69c19924379e2fef114b98b00f2f294ba67675bf",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/dress.webp",
+      "bytes": 46080,
+      "sha256": "883269b1af27d25d770d8f738ceab05e9f2605c873733b1c5769e64cee37a475",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/flower.webp",
+      "bytes": 34242,
+      "sha256": "071514a435c766aa7fdec733ba59e1be1fecab360749da8a9c22fb87dea653f7",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/hair-bun.webp",
+      "bytes": 25324,
+      "sha256": "804b2ce161ba166c23aa419bfd2cc5182850a28e3750ad5b3f0de673b71f060f",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/hair-long.webp",
+      "bytes": 54144,
+      "sha256": "7b1e3e7f1f9d2b6aabd513cbb1b49634d876c76314d9947cc1863d9dc11d053e",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/hair-short.webp",
+      "bytes": 14340,
+      "sha256": "6aba9ade9bcea44b807b2204500e1f06ff116862e7656d97ba070f87c1c13fd2",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/kiekie.webp",
+      "bytes": 54528,
+      "sha256": "ff973f39a8d60a9165c9c80e4ca90d6c4da1e060706032d8548fea5ac97f505c",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/shirt-broad.webp",
+      "bytes": 30810,
+      "sha256": "f0fd45a18aa5aebefb955e865c368c240f4955de60c3200e9858b33d740a180c",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/shirt.webp",
+      "bytes": 33750,
+      "sha256": "0310079294c358c7df45aef2768ba5397fec93801390c20846425049fa699419",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/taovala.webp",
+      "bytes": 41434,
+      "sha256": "652af710080ce5524f21e89caaadbe3519be75fda64082e15c61faa1ecf9b05d",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    },
+    {
+      "path": "public/art/avatar/tupenu.webp",
+      "bytes": 28028,
+      "sha256": "7cea26e32f1bf35e72777ab12f2744b6a7e24c85060fc010017f025f66ddeced",
+      "source": "Original built-in image generation; prompts in assets/avatar-layer-prompts.json",
+      "status": "Independent modular raster layer; native alpha mask",
+      "culturalApproval": "Pending DR L.V.S. review"
+    }
+  ]
+}
